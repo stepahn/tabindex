@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tabindex::VERSION
   spec.authors       = ["Stephan Zalewski"]
   spec.email         = ["stephan@foo-labs.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{enumerate tabindex}
+  spec.summary       = %q{enumerate tabindex}
   spec.homepage      = ""
   spec.license       = "MIT"
 
